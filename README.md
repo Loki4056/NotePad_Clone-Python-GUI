@@ -2,7 +2,7 @@
 Notepad Clone
 Notepad Clone is a simple text editor application that mimics the functionality of the Windows Notepad program. 
 It is written in Python using the Tkinter GUI toolkit. It allows users to create, open, edit, and save text files with various encoding options. 
-It also supports basic editing features such as cut, copy, paste, undo, redo, find, and replace. It has a simple and user-friendly interface that resembles the original Notepad..
+It also supports basic editing features such as cut, copy, paste, undo, redo, find, and replace. It has a simple and user-friendly interface that resembles the original Notepad.
 
 Installation
 To run Notepad Clone, you need to have Python 3 installed on your system. 
